@@ -1,7 +1,7 @@
 ---
 date: '2026-01-09T13:48:40+04:00'
 draft: true
-title: 'Visualizing High-Dimensional Data (Without Summoning Eldritch Horrors)'
+title: 'Visualizing High-Dimensional Data (Without Summoning Eldritch Horrors🦑)'
 
 tags: []
 author: Abhishek Benny

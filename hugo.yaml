@@ -79,7 +79,7 @@ menu:
       weight: 20
     - identifier: about
       name: About Me
-      url: /aboutme/
+      url: 
       weight: 5
     - identifier: cv
       name: CV
@@ -87,3 +87,7 @@ menu:
       weight: 30
       params:
         newTab: true
+
+caches:
+  images:
+    dir: :cacheDir/images
