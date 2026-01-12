@@ -1,4 +1,4 @@
-baseURL: abhishek.deepam.net/
+baseURL: htps://abhishek.deepam.net/
 languageCode: en-us
 title: Stacks of Scrolls
 theme: ["PaperMod"]
@@ -20,7 +20,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Abhishek Benny
-  description: "Works better the second time"
+  description: ""
   keywords: [Blog, Portfolio, PaperMod]
   author: Abhishek Benny
   DateFormat: "January 2, 2006"
@@ -56,16 +56,16 @@ params:
       - name: Posts
         url: /stacks/
       - name: CV/Resume
-        url: /files/Abhishek_Benny.pdf
+        url: /files/abhishek_benny.pdf
         newTab: true
 
   socialIcons:
     - name: email
-      url: "abhishekbenny@deepam.net"
+      url: mailto:abhishekbenny@deepam.net
     - name: Linkedin
-      url: "https://www.linkedin.com/in/abhishekbenny/"
+      url: https://www.linkedin.com/in/abhishekbenny/
     - name: github
-      url: "https://github.com/abhishekbenny25"
+      url: https://github.com/abhishekbenny25
 
 menu:
   main:
@@ -83,7 +83,7 @@ menu:
       weight: 5
     - identifier: cv
       name: CV
-      url: /files/Abhishek_Benny.pdf
+      url: /files/abhishek_benny.pdf
       weight: 30
       params:
         newTab: true
