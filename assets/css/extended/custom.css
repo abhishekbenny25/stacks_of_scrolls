@@ -1,0 +1,10 @@
+/* Center all tables in post content */
+.post-content table {
+  margin-left: auto;
+  margin-right: auto;
+}
+.table-caption{
+  text-align:center;
+  font-weight:600;
+  margin: 0.75rem 0 0.25rem;
+}
