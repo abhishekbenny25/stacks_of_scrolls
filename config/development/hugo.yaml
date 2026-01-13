@@ -42,6 +42,8 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  #cover:
+    #hiddenInList: true
   
 
   profileMode:

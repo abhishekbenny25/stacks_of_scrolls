@@ -42,7 +42,8 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  
+  #cover:
+    #hiddenInList: true
 
   profileMode:
     enabled: True # needs to be explicitly set
