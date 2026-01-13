@@ -1,6 +1,6 @@
 ---
-date: '2026-01-09T13:48:40+04:00'
-draft: true
+date: '2026-01-13T13:48:40+04:00'
+draft: false
 title: 'Visualizing High-Dimensional Data (Without Summoning Eldritch Horrors🦑)'
 
 tags: []
@@ -21,6 +21,13 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+
+cover:
+  image: images/covers/visualizing_high-dimensional_data.png
+  alt: "Spawning Eldritch horror from unclear data in presentation"
+  caption: "Cover image created using OpenAI’s image generation tool (DALL·E). Prompt: Corporate meeting room, projector screen with a 3D scatter plot filled with multicolored random points. Tentacles emerging out of the projected image into the room. Presenter and audience reacting. Clean composition, blog cover illustration, landscape - Abhishek Benny."
+  relative: true
+  responsiveImages: true
 ---
 
 Presenting high dimensional data to executives isn’t really about data – it’s about steering the decision. Approve capital, change a process, cull an underperforming product. In the wonderland of our imaginations, there exists a two variable system, where the decision is cut and dry – but this is never the case with real data. Data out in the wild always comes with dozens if not hundreds of variables, from complex KPIs to individual sensor data and if you try to show all of it at once, you can expect to open a portal to confusion in PowerPoint form. 
@@ -52,8 +59,9 @@ Everything you visualize MUST satisfy these objectives. The biggest enemies to a
 -	Data that varies, but does not change the recommendation
 -	Garbage metrics: Vanity metrics, duplicate metrics, or inconsistently defined metrics.
 
-**BIG NOTE: You do not need to present something because you measured it. 
-At this point, if you are already down to one or two variables, you’re basically done! Keep it simple and focus on the decision.**
+**You do not need to present something just because you measured it.**
+
+At this point, if you are already down to one or two variables, you’re basically done! Keep it simple and focus on the decision.
 
 ## Step 2 – Collapse correlated variables into a smaller set of axes
 If you’ve kept only the most relevant data and you still have more than 3 dimensions, the next step is to combine variables that move together.
@@ -92,3 +100,5 @@ To handle this properly, prepare drill-down visuals in an appendix: these should
 Visualizing high-dimensional data for executives isn’t about showing them everything your wide business intelligence system knows, it is showing them exactly what they need to make a decision  - with just enough evidence for them to be confident in it. By following this guide, you will have anchored your narrative to a business decision, cut out any metrics that don’t materially change your message, and then compress what is left into a few easy to explore themes that fit comfortably into a few easily interpretable slides. Keep your presentation concise, giving context to the problem, then providing a recommendation with data evidence, and finally bringing a call to action. Maintain an appendix to defend your data and answer any mechanical questions without derailing your presentation. If you do this well, you don’t just avoid spawning eldritch horrors – you turn multidimensional complexity into clear, actionable recommendations. 
 
 **And thus, no monsters were summoned.**
+
+
