@@ -36,7 +36,7 @@ This is how we spawn eldritch horrors, not by doing bad analysis, but by cogniti
 
 Now, to not summon eldritch horrors, a quick rule of thumb: If your core visual needs more than 3 axes to make the point, you have got to reduce it down. The goal is not to remove information or obfuscate marginally good data, it is to compress the complexity into a smaller number of dimensions that preserve the story of the data while maintaining support for your message - keeping the room oriented towards taking an action.
 
-In this article, I will walk through a workflow for taming high-dimensional data for executive audiences. 
+In this post, I will walk through a workflow for taming high-dimensional data for executive audiences. 
 
 ## Step 0 – Know your audience
 
@@ -97,7 +97,7 @@ To handle this properly, prepare drill-down visuals in an appendix: these should
 
 ## Closing the portal
 
-Visualizing high-dimensional data for executives isn’t about showing them everything your wide business intelligence system knows, it is showing them exactly what they need to make a decision  - with just enough evidence for them to be confident in it. By following this guide, you will have anchored your narrative to a business decision, cut out any metrics that don’t materially change your message, and then compress what is left into a few easy to explore themes that fit comfortably into a few easily interpretable slides. Keep your presentation concise, giving context to the problem, then providing a recommendation with data evidence, and finally bringing a call to action. Maintain an appendix to defend your data and answer any mechanical questions without derailing your presentation. If you do this well, you don’t just avoid spawning eldritch horrors, you turn multidimensional complexity into clear, actionable recommendations. 
+Visualizing high-dimensional data for executives isn’t about showing them everything your wide business intelligence system knows, it is showing them exactly what they need to make a decision  - with just enough evidence for them to be confident in it. By following this guide, you will have anchored your narrative to a business decision, cut out any metrics that don’t materially change your message, and then compressed what is left into a few easy to explore themes that fit comfortably into a few easily interpretable slides. Keep your presentation concise, giving context to the problem, then providing a recommendation with data evidence, and finally bringing a call to action. Maintain an appendix to defend your data and answer any mechanical questions without derailing your presentation. If you do this well, you don’t just avoid spawning eldritch horrors, you turn multidimensional complexity into clear, actionable recommendations. 
 
 **And thus, no monsters were summoned.**
 
