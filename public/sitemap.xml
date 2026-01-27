@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/stacks/presenting_high-dimensional_data/</loc>
-    <lastmod>2026-01-13T13:48:40+04:00</lastmod>
+    <loc>http://localhost:1313/stacks/archiving_non-standard_experiments/</loc>
+    <lastmod>2026-01-27T11:48:40+04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-27T11:48:40+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stacks/presenting_high-dimensional_data/</loc>
     <lastmod>2026-01-13T13:48:40+04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/aboutme/</loc>
